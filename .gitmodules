@@ -1,3 +1,6 @@
 [submodule "modules/utils"]
 	path = modules/utils
 	url = https://github.com/neworldmc/kaleidoscope.git
+[submodule "modules/cio"]
+	path = modules/cio
+	url = https://github.com/NEWorldProject/cio.git
